@@ -10,6 +10,7 @@ Crie um documento em HTML que Contenha as páginas iniciais de um TCC.
 - Resumo (com palavras chave)
 - Sumário
 - Introdução
+
 Para produzir o texto, poderá ser utilizado o gerador automático (https://www.lipsum.com/)
 
 [Link da Atividade](https://luan-h.github.io/Atividade-2/)
